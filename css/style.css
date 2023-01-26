@@ -232,7 +232,6 @@ body {
 .contact .row {
   display: flex;
   margin: 2rem;
-  height: 35rem;
   background-color: grey;
 }
 
